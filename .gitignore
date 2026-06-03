@@ -48,7 +48,6 @@ docs/generated/
 infracost-debug-report.json
 
 cmd/infracost/__debug_*
-.codex-repo-context.json
 .DS_Store
 .env
 *.tfstate
